@@ -1,0 +1,10 @@
+commit 251d8892ae6175d9967c7ecbc6c6d9fc04f09290
+tree de108506edb0a31d9d164d074cf8f0d3f9ed7c83
+parent d79ac08fb2bc1a3a2e2f8848949cc3c2fd81f015
+author nasir <nasirkhatib01@gmail.com> 2026-03-10 04:51:03 +0000
+committer nasir <nasirkhatib01@gmail.com> 2026-03-10 04:51:03 +0000
+
+    configure sonarqube in pom.xml
+
+
+:100644 100644 cb7d575c569557d933d2877caa659fce1dd87926 94c05758ed9e2105e8b22795ecb1325b1c03860a M	pom.xml

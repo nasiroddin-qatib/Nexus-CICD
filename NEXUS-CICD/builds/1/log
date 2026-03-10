@@ -1,0 +1,5 @@
+Started by user [8mha:////4LZJKCrPcIW/ajTR2yknyCTwdyxs6mZkyrxTS/GBBEbQAAAAkh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBnb90uLUIv08AHiORGG8AAAA[0mn
+ERROR: Unable to find Jenkinsfile from git https://github.com/nasiroddin-qatib/Nexus-CICD
+[withMaven] downstreamPipelineTriggerRunListener - Failure to introspect build steps: java.io.IOException: NEXUS-CICD #1 did not yet start
+[withMaven] downstreamPipelineTriggerRunListener - Failure to introspect build steps: java.io.IOException: NEXUS-CICD #1 did not yet start
+Finished: FAILURE
