@@ -80,7 +80,7 @@
         <snapshotRepository>
             <id>nexus</id>
             <name>nexus</name>
-            <url>http://13.201.42.252:8080/repository/hotstarapp/</url>
+            <url>http://13.201.42.252:8081/repository/hotstarapp/</url>
         </snapshotRepository>
     </distributionManagement>
 
